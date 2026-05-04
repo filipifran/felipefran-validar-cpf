@@ -1,1 +1,1 @@
-O objetivo deste projeto é aplicar lógica de programação e algoritmos matemáticos para verificar a integridade dos dígitos verificadores de um CPF, garantindo que o número inserido segue o padrão oficial da Receita Federal.
+O objetivo deste código é aplicar lógica de programação e algoritmos matemáticos para verificar a integridade dos dígitos verificadores de um CPF, garantindo que o número inserido segue o padrão oficial da Receita Federal.
