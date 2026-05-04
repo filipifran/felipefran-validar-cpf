@@ -1,1 +1,1 @@
-O objetivo deste código é aplicar lógica de programação e algoritmos matemáticos para verificar a integridade dos dígitos verificadores de um CPF, garantindo que o número inserido segue o padrão oficial da Receita Federal.
+Este projeto tem como objetivo desenvolver um aplicativo simples em Python capaz de validar um número de CPF informado pelo usuário.
