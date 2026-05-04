@@ -4,7 +4,6 @@ def validar_cpf(cpf):
     if len(cpf) != 11 or cpf == cpf[0] * 11:
         return False
 
-    
     soma = sum(int(cpf[i]) * (10 - i) for i in range(9))
     digito1 = (soma * 10 % 11) % 10
 
@@ -13,7 +12,6 @@ def validar_cpf(cpf):
     digito2 = (soma * 10 % 11) % 10
 
     return cpf[-2:] == f"{digito1}{digito2}"
-
 
 def main():
     cpf = input("Digite um CPF: ")
